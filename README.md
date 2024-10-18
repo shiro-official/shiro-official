@@ -3,7 +3,7 @@
 <br><br> 
 <pre>
     💼 Rust/C++ dev 
-    💻 Reverse Engineering
+    💻 Reverse engineering
     📖 Distributed systems
     🎮 Music • Games • Anime • Code • Art
     🐾 Muffin 🐰 • Cake & Cookie 🐤🐥
