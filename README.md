@@ -12,6 +12,6 @@
 <img src="https://github.com/shiro-official/shiro-official/blob/main/assets/kyubey.gif" height="40" />
 <br><br><br>
     
-[![](https://img.shields.io/badge/Telegram-0088cc)](https://t.me/@daybeforethesuicide)
+[![](https://img.shields.io/badge/Telegram-0088cc)](https://t.me/daybeforethesuicide)
 [![](https://img.shields.io/badge/Discord-8A2BE2)](https://discord.com/users/1213940698353639476)
 </div>
